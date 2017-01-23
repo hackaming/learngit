@@ -4,6 +4,7 @@ public class hello{
 	}
 
 	public void testfromWorkpc(){
+	}
 
 	public void testMethod(){
 
